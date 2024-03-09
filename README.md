@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Haochen Jiang (蒋浩辰). You can call me Haochen.
+
+- 🌱 I am currently a second-year graduate student (expected to graduate in 2025) at [HLT@SUDA](hlt.suda.edu.cn), advised by Prof. [Zhenghua Li](hlt.suda.edu.cn/~zhli/). Before this, I received my Bachelor's degree (2018-2022, Computer Science and Technology) from Soochow University.
+
+- 🤔 Currently, my main research area is the GEC (Grammatical Error Correction) task in natural language processing, and I am also very interested in Large Language Models (LLMs) and their applications.
+
+- 📫 How to reach me: jhcnlp@qq.com
+
 <!--
 **haochenJiang2000/haochenJiang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
